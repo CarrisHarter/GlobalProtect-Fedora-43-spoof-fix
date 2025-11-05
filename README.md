@@ -2,7 +2,7 @@
 
 **Fix "Not Acceptable" OS version error when connecting to GlobalProtect VPN on Fedora 43**
 
-Many enterprise VPN gateways (including university VPNs like Monash) reject Fedora 43 because it's too new and not on their approved OS list. This guide shows you how to spoof your OS version to Fedora 42 so GlobalProtect HIP checks will pass.
+Many enterprise VPN gateways reject Fedora 43 because it's too new and not on their approved OS list. This guide shows you how to spoof your OS version to Fedora 42 so GlobalProtect HIP checks will pass.
 
 ---
 
